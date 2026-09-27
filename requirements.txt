@@ -1,0 +1,5 @@
+streamlit
+google-genai
+duckduckgo_search
+sympy
+python-dotenv
